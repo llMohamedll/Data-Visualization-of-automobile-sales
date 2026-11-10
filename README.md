@@ -1,4 +1,4 @@
-# Project 04: Data Visualization (Matplotlib, Seaborn, Folium)
+# Project title: Data Visualization of automobile sales
 
 ## Overview
 Comprehensive visualization toolkit demonstrating line plots, bar charts, pie charts, box plots, scatter plots, heatmaps, and interactive Folium maps.
